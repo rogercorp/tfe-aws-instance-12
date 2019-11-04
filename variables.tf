@@ -30,5 +30,5 @@ variable "ttl" {
 
 variable "description" {
   description = "So meta"
-  default     = "Foo-me-to"
+  default     = "Foo-me-to-cisco"
 }
